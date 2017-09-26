@@ -48,6 +48,7 @@
   <ItemGroup>
     <Compile Include="Estudiantes\CristianPineda.cs" />
     <Compile Include="Estudiantes\RafaelZelaya.cs" />
+    <Compile Include="Estudiantes\Roberto_Steven.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
