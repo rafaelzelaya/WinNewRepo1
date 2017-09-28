@@ -49,6 +49,7 @@
   <ItemGroup>
     <Compile Include="Estudiantes\Bernardo_Portillo.cs" />
     <Compile Include="Estudiantes\CristianPineda.cs" />
+    <Compile Include="Estudiantes\DimasAmaya.cs" />
     <Compile Include="Estudiantes\RafaelZelaya.cs" />
     <Compile Include="Estudiantes\Roberto_Steven.cs" />
     <Compile Include="Form1.cs">
