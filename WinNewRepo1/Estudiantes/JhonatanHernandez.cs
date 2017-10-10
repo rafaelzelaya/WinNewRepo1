@@ -8,5 +8,6 @@ namespace WinNewRepo1.Estudiantes
 {
     class JhonatanHernandez
     {
+        int variable;
     }
 }
