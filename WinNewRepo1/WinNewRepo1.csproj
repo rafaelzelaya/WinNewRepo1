@@ -62,6 +62,7 @@
     <Compile Include="Estudiantes\Kevin_Flores.cs" />
     <Compile Include="Estudiantes\LuisFlores.cs" />
     <Compile Include="Estudiantes\Manuel_Reyes.cs" />
+    <Compile Include="Estudiantes\MendezFrancisco.cs" />
     <Compile Include="Estudiantes\RafaelZelaya.cs" />
     <Compile Include="Estudiantes\Roberto_Steven.cs" />
     <Compile Include="Estudiantes\WilberPerdomo.cs" />
