@@ -47,6 +47,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Estudiantes\BatresJavier.cs" />
     <Compile Include="Estudiantes\Bernardo_Portillo.cs" />
     <Compile Include="Estudiantes\Brayan_Amaya.cs" />
     <Compile Include="Estudiantes\Copland_Fernando.cs" />
@@ -65,6 +66,7 @@
     <Compile Include="Estudiantes\LuisFlores.cs" />
     <Compile Include="Estudiantes\Manuel_Reyes.cs" />
     <Compile Include="Estudiantes\MendezFrancisco.cs" />
+    <Compile Include="Estudiantes\Mendez_Abigail.cs" />
     <Compile Include="Estudiantes\RafaelZelaya.cs" />
     <Compile Include="Estudiantes\Roberto_Steven.cs" />
     <Compile Include="Estudiantes\Rodriguez_Kevin.cs" />
